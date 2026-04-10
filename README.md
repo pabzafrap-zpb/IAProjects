@@ -1,4 +1,4 @@
-# GoogleColab
+# Proyectos en GoogleColab de IA GEN
 Proyectos varios desarrollados en Google Colab
 
 Proyecto I: [Analisis de Oferta & Propuesta de Proyectos](https://colab.research.google.com/drive/1SW0zSUi1ZnqGebeicSdHONIfNfsMQ2Qc#scrollTo=xxx90oChhBY5)
